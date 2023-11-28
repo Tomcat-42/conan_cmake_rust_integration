@@ -1,4 +1,4 @@
-add_library(deep_thought)
+add_library(deep_thought STATIC)
 
 target_sources(deep_thought
     PRIVATE

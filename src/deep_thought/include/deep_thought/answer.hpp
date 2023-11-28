@@ -1,5 +1,7 @@
 #pragma once
 
+int a();
+
 namespace deep_thought {
-  auto answer() -> int;
+  int answer();
 }
